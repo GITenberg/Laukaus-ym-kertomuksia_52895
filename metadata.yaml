@@ -1,0 +1,47 @@
+_repo: Laukaus-ym-kertomuksia_52895
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Soini, Lauri
+    aliases:
+    - Ahava, Juho
+    - Sauramo, Lauri
+    - Soininen, L.
+    birthdate: 1875
+    deathdate: 1919
+    gutenberg_agent_id: '42573'
+    url: http://www.gutenberg.org/2009/agents/42573
+    wikipedia: https://fi.wikipedia.org/wiki/Lauri_Soini
+creator:
+  author:
+    agent_name: Pushkin, Aleksandr Sergeevich
+    aliases:
+    - Пушкин, Александр Сергеевич
+    - Pushkin, A. S. (Aleksandr Sergeevich)
+    - Poushkin, Alexander
+    - Pushkin, Alexander
+    birthdate: 1799
+    deathdate: 1837
+    gutenberg_agent_id: '1457'
+    url: http://www.gutenberg.org/2009/agents/1457
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
+    - http://www.museum.ru/Pushkin/
+description: ''
+gutenberg_issued: '2016-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52895'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Russian -- Translations into Finnish'
+- !lcc 'PG'
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- GITenberg
+tableOfContents: Alexander Pushkin -- Laukaus -- Aatelisneiti talonpoikaistyttönä
+  -- Postimestari ja hänen tyttärensä.
+title: Laukaus y.m. kertomuksia
+url: http://www.gutenberg.org/ebooks/52895
